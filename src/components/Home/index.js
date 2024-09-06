@@ -68,3 +68,50 @@ const Home = () => {
 }
 
 export default Home
+
+
+
+
+
+
+// TaskContext Code
+
+// import {useState, createContext} from 'react'
+
+// export const TaskContext = createContext()
+
+// export const TaskProvider = ({children}) => {
+//   const [myTask, setMyTask] = useState([])
+//   return (
+//     <TaskContext.Provider value={{myTask, setMyTask}}>
+//       {children}
+//     </TaskContext.Provider>
+//   )
+// }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
